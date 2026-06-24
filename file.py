@@ -6,7 +6,6 @@ f.close()
 #File write 
 string = "Pankaj Jajim"
 f = open("basics/myfile.txt", "w")
-
 f.write(string)
 f.close()
 
